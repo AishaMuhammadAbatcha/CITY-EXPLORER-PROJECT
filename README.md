@@ -1,6 +1,5 @@
 # City Explorer
 
-
 A modern location-based discovery platform built with **Vite + React + TypeScript** and **Supabase**, helping users explore and connect with local businesses, events, and activities.
 
 ## 🎯 Features
